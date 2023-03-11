@@ -1,2 +1,2 @@
 I am testing
-echo "good job!/n hhh" 
+echo "good job! hhh" 
